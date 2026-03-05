@@ -1,2 +1,2 @@
-# Python-Programming-Projects
-This repository contains projects made with python programming language, with a heavy emphasis on the integration of mathematical concepts and models to programming
+# Marginal Cost/Revenue Calculator
+This Simple Project was made with  the Python programming language, It uses the principle of differentiation to calculate the marginal cost and revenue that a company has in order to help it make better business decisions. Additional feature includes graphs to visualise the marginal cost and revenue
